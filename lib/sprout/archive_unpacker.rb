@@ -1,4 +1,4 @@
-require 'zip/zip'
+#require 'zip/zip'
 require 'sprout/version'
 require 'archive/tar/minitar'
 
